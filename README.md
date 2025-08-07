@@ -22,6 +22,7 @@ In this project, I:
 -Support decision-makers with actionable insights
 
 🛠️ Tools & Technologies:
+
 -Python – Core language.
 
 -Pandas, NumPy – Data manipulation.
