@@ -1,7 +1,7 @@
 # Churn-Prediction-System-Project
 This project is a hands-on machine learning solution to predict customer churn—i.e., which customers are likely to stop using a service. Churn prediction is critical in industries like telecom, SaaS, and banking, where retaining existing customers is more cost-effective than acquiring new ones.
 
-📌 Project Overview
+## 📌 Project Overview
 In this project, I:
 
 -Explored and cleaned real-world customer data
@@ -14,7 +14,7 @@ In this project, I:
 
 -Visualized insights using Power BI and Matplotlib
 
-🎯 Objectives:
+## 🎯 Objectives:
 
 -Predict the probability of churn for each customer
 
