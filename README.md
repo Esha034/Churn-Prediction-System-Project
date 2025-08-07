@@ -22,7 +22,7 @@ In this project, I:
 
 -Support decision-makers with actionable insights
 
-🛠️ Tools & Technologies:
+## 🛠️ Tools & Technologies:
 
 -Python – Core language.
 
@@ -34,10 +34,15 @@ In this project, I:
 
 -Power BI – Business dashboard.
 
-📁 Dataset:
+## 📁 Dataset:
 
--Telco Customer Churn Dataset – Available on Kaggle
+-Telco Customer Churn Dataset – Available on Kaggle.
 
-📈 Results:
+## 📂 Output Files
 
-The final model achieved strong performance in predicting churn and helped identify at-risk customer segments. The dashboard/report presents clear business recommendations to reduce churn and boost customer retention.
+-`Churn_Predictions.csv` – Contains model predictions and can be used for dashboard or further evaluation.
+
+
+## 📈 Buisness Insights:
+
+The final model achieved strong performance in predicting churn and helped identify at-risk customer segments. The churn prediction model identified key patterns in customer behavior. Customers with short tenure, high monthly charges, and flexible contracts are the most likely to leave. The dashboard presents clear business recommendations to reduce churn and boost customer retention.
