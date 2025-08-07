@@ -38,6 +38,12 @@ In this project, I:
 
 -Telco Customer Churn Dataset – Available on Kaggle.
 
+## 💾 Saved Model
+
+- `customer_churn_model.pkl`: Contains the trained Random Forest model and required feature names.
+- This file enables fast loading and inference without retraining.
+- Can be used for building a Streamlit or Flask web app for real-time churn predictions.
+
 ## 📂 Output Files
 
 -`Churn_Predictions.csv` – Contains model predictions and can be used for dashboard or further evaluation.
