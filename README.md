@@ -15,6 +15,7 @@ In this project, I:
 -Visualized insights using Power BI and Matplotlib
 
 🎯 Objectives:
+
 -Predict the probability of churn for each customer
 
 -Understand which factors most influence churn
@@ -34,7 +35,9 @@ In this project, I:
 -Power BI – Business dashboard.
 
 📁 Dataset:
+
 -Telco Customer Churn Dataset – Available on Kaggle
 
 📈 Results:
+
 The final model achieved strong performance in predicting churn and helped identify at-risk customer segments. The dashboard/report presents clear business recommendations to reduce churn and boost customer retention.
